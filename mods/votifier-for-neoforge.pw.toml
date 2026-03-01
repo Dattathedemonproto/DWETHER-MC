@@ -1,0 +1,13 @@
+name = "Votifier for Neoforge"
+filename = "votifier-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eZ7Ug3Fr/versions/GdPMYzsp/votifier-1.2.jar"
+hash-format = "sha512"
+hash = "0370f513e692787bff04cadde56608d264e162cc3d77789fb4dbaf61a9867dbb8903baeff3910d97f4e3b89fbd1b75060e66921e489f01e4a6ed0d81b15453e6"
+
+[update]
+[update.modrinth]
+mod-id = "eZ7Ug3Fr"
+version = "GdPMYzsp"
