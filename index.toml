@@ -1269,8 +1269,38 @@ hash = "00f80d2dae42001c7f334d2ff4bac2727de1f8ea257053c1316f0a49737d82a9"
 metafile = true
 
 [[files]]
+file = "mods/pmweatherapi.pw.toml"
+hash = "e573db31ce0a0317627473aeca8fb44f1d4f6b49bbd001468432bab5e091b338"
+metafile = true
+
+[[files]]
+file = "mods/pmwextra.pw.toml"
+hash = "c91a4fd991aca398dc217f498ec0fc7b2846679227d0dcfc260f0cdff4f2bfe7"
+metafile = true
+
+[[files]]
+file = "mods/pmwu-dat.pw.toml"
+hash = "155582fbd4ee0129e847532dcb2495dc94f75228f623411717b3aaf6e610e3b8"
+metafile = true
+
+[[files]]
+file = "mods/pmwu-so.pw.toml"
+hash = "9a554b4ae780c7854a957cfe00c72f3381a5e54e7c4771b44f306620bc1cc7b3"
+metafile = true
+
+[[files]]
+file = "mods/pmwu-wr.pw.toml"
+hash = "264a136d56557742db535e92231fa66f52ee582c73e59583d6f3fbc5029b4b52"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
+file = "mods/protomanlys-weather.pw.toml"
+hash = "5074c1853c6fc522e39014be88c3badaf4e2ad975030f70118bcf8adefd71eb2"
 metafile = true
 
 [[files]]
