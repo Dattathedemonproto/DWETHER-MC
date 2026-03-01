@@ -1199,6 +1199,11 @@ hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
 metafile = true
@@ -1264,38 +1269,8 @@ hash = "00f80d2dae42001c7f334d2ff4bac2727de1f8ea257053c1316f0a49737d82a9"
 metafile = true
 
 [[files]]
-file = "mods/pmweatherapi.pw.toml"
-hash = "e573db31ce0a0317627473aeca8fb44f1d4f6b49bbd001468432bab5e091b338"
-metafile = true
-
-[[files]]
-file = "mods/pmwextra.pw.toml"
-hash = "c91a4fd991aca398dc217f498ec0fc7b2846679227d0dcfc260f0cdff4f2bfe7"
-metafile = true
-
-[[files]]
-file = "mods/pmwu-dat.pw.toml"
-hash = "155582fbd4ee0129e847532dcb2495dc94f75228f623411717b3aaf6e610e3b8"
-metafile = true
-
-[[files]]
-file = "mods/pmwu-so.pw.toml"
-hash = "9a554b4ae780c7854a957cfe00c72f3381a5e54e7c4771b44f306620bc1cc7b3"
-metafile = true
-
-[[files]]
-file = "mods/pmwu-wr.pw.toml"
-hash = "264a136d56557742db535e92231fa66f52ee582c73e59583d6f3fbc5029b4b52"
-metafile = true
-
-[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
-metafile = true
-
-[[files]]
-file = "mods/protomanlys-weather.pw.toml"
-hash = "5074c1853c6fc522e39014be88c3badaf4e2ad975030f70118bcf8adefd71eb2"
 metafile = true
 
 [[files]]
@@ -1315,12 +1290,17 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3ed2602464880c66bc4f5d19b63619e2efa80be67f757e88caad9ac8e07b3e84"
+hash = "30d84eec9fbc561d8d1c333593d79beb2e14fcd886b06fa218db581d993c0cff"
 metafile = true
 
 [[files]]
 file = "mods/voxelized-furniture.pw.toml"
 hash = "5e3d0e059c695d1a5595111d65fb84b1ba17dfd49500411dde031bcaf88ae4a8"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "fc84548addfafabdc70c6d79a555f96bfb05016f1db9f8854ce0bfa95f61a561"
 metafile = true
 
 [[files]]
