@@ -1,0 +1,92 @@
+#
+################################################################################
+##                                                                             #
+##                         PERMISSION SETTINGS                                 #
+##                                                                             #
+################################################################################
+#
+#Control who can use the Damage Assessment Toolkit and database commands.
+#
+#HOW IT WORKS:
+#  - Set 'require_permission' to FALSE = Everyone can use it (no restrictions)
+#  - Set 'require_permission' to TRUE  = Only players with the permission node
+#
+#PERMISSION SYSTEM SUPPORT:
+#  - LuckPerms (mod or plugin on hybrid servers)
+#  - Any Bukkit-compatible permission plugin (on Mohist/Magma)
+#  - If no permission system is found, falls back to OP level 2+
+#
+[permissions]
+	#
+	#┌─────────────────────────────────────────────────────────────────────────────┐
+	#│                    DAMAGE ASSESSMENT TOOLKIT                                │
+	#└─────────────────────────────────────────────────────────────────────────────┘
+	#
+	#Require permission to use the Damage Assessment Toolkit item.
+	#
+	#  FALSE = Everyone can use it (recommended for single player)
+	#  TRUE  = Only players with the permission node below can use it
+	toolkit_requires_permission = false
+	#
+	#Permission node required to use the toolkit.
+	#Only checked if 'toolkit_requires_permission' is TRUE.
+	#
+	#Examples: pmwu.dat.use, myserver.dat.access, moderator
+	toolkit_permission_node = "pmwu.dat.use"
+	#
+	#┌─────────────────────────────────────────────────────────────────────────────┐
+	#│                         DATABASE ACCESS                                     │
+	#└─────────────────────────────────────────────────────────────────────────────┘
+	#
+	#Require permission to use /tordb and /tornadodb commands.
+	#
+	#  FALSE = Everyone can view the database
+	#  TRUE  = Only players with the permission node below can view it
+	database_requires_permission = false
+	#
+	#Permission node required to view the database.
+	#Only checked if 'database_requires_permission' is TRUE.
+	#
+	#Examples: pmwu.dat.database, myserver.dat.view, moderator
+	database_permission_node = "pmwu.dat.database"
+
+#
+################################################################################
+##                                                                             #
+##                         PHOTO REQUIREMENTS                                  #
+##                                                                             #
+################################################################################
+#
+#Configure whether photos from the Exposure mod are required for submissions.
+#Note: Exposure mod must be installed for photo features to work.
+[photos]
+	#
+	#Require photos to submit a damage assessment.
+	#
+	#  FALSE = Players can submit assessments without any photos
+	#  TRUE  = Players must attach the minimum number of photos
+	require_photos = true
+	#
+	#Minimum number of photos required per assessment.
+	#(Only applies if require_photos = true AND Exposure mod is installed)
+	# Default: 3
+	# Range: 1 ~ 10
+	min_photos = 3
+	#
+	#Maximum number of photos allowed per assessment.
+	# Default: 6
+	# Range: 1 ~ 20
+	max_photos = 6
+
+#
+################################################################################
+##                                                                             #
+##                           GENERAL SETTINGS                                  #
+##                                                                             #
+################################################################################
+#
+[general]
+	#
+	#Enable debug logging for troubleshooting.
+	#Logs additional information about assessments, permissions, and photo handling.
+	debug_logging = false

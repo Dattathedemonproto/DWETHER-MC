@@ -1,0 +1,37 @@
+#========================================
+# REAL-WORLD SOUNDINGS
+# Server-side sounding data from JSON files
+# Files are loaded from config/PMWU-SO/Soundings/<RISK>/
+# Risk categories: HIGH, MDT, ENH, SLGT, MRGL, TSTM
+#========================================
+[soundings]
+	#Enable real-world sounding data from server files
+	#When enabled, PMWeather's atmospheric sampling will use real data
+	#Soundings are loaded from config/PMWU-SO/Soundings/<RISK>/*.json
+	enabled = true
+	#How often to potentially change the active sounding (in minutes)
+	#Server will pick a new random sounding from the appropriate category
+	# Default: 5
+	# Range: 1 ~ 60
+	change_interval_minutes = 5
+	#Match sounding selection to PMWeather's atmospheric risk
+	#When true, server picks soundings from category matching current conditions
+	#When false, soundings are picked randomly from all categories
+	match_risk = true
+
+#========================================
+# DEBUG & LOGGING
+# Console output control - all disabled by default
+# Enable these for troubleshooting issues
+#========================================
+[debug]
+	#Master debug switch - enables all debug output
+	#WARNING: Very verbose! Only enable when troubleshooting
+	debug_mode = false
+	#Enable verbose logging for all sounding/outlook operations
+	#WARNING: This generates a LOT of console output!
+	verbose_logging = false
+	#Log detailed sounding system operations
+	#Shows: file loading, risk calculations, sounding selection,
+	#network syncs, and PMWeather injection status
+	sounding_debug = false

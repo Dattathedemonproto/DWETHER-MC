@@ -1,0 +1,32 @@
+[2026-02-28 20:07:24.549] [INFO] [PMWU-SO] ============================================================
+[2026-02-28 20:07:24.550] [INFO] [PMWU-SO] PMWU-SO Debug Logger initialized - 2026-02-28 20:07:24.549
+[2026-02-28 20:07:24.550] [INFO] [PMWU-SO] ============================================================
+[2026-02-28 20:07:24.550] [INFO] [PMWU-SO] PMWU Soundings and Outlooks mod constructor complete
+[2026-02-28 20:07:34.060] [INFO] [PMWU-SO] Common setup complete
+[2026-02-28 20:07:40.958] [INFO] [PMWU-SO] [SOUNDING NET] Sounding network packets registered with channel: pmwu_so
+[2026-02-28 20:07:40.958] [INFO] [PMWU-SO] Network payload handlers registered
+[2026-02-28 20:08:35.548] [INFO] [PMWU-SO] ============================================================
+[2026-02-28 20:08:35.548] [INFO] [PMWU-SO] PMWU-SO Debug Logger initialized - 2026-02-28 20:08:35.548
+[2026-02-28 20:08:35.548] [INFO] [PMWU-SO] ============================================================
+[2026-02-28 20:08:35.548] [INFO] [PMWU-SO] PMWU Soundings and Outlooks mod constructor complete
+[2026-02-28 20:08:42.251] [INFO] [PMWU-SO] Common setup complete
+[2026-02-28 20:08:47.232] [INFO] [PMWU-SO] [SOUNDING NET] Sounding network packets registered with channel: pmwu_so
+[2026-02-28 20:08:47.232] [INFO] [PMWU-SO] Network payload handlers registered
+[2026-02-28 20:11:19.210] [INFO] [PMWU-SO] [CLIENT SOUNDING] Set sounding: 43.12,-85.50 (MRGL) - 36 levels
+[2026-02-28 20:11:19.210] [INFO] [PMWU-SO] [CLIENT SOUNDING] Risk category changed: TSTM -> MRGL
+[2026-02-28 20:11:19.210] [DEBUG] [PMWU-SO] [SOUNDING FETCHER] Set sounding: 43.12,-85.50 (MRGL) - 36 levels
+[2026-02-28 20:11:19.210] [DEBUG] [PMWU-SO] [SOUNDING NET] Received sounding from server: 43.12,-85.50 (MRGL) - 36 levels
+[2026-02-28 20:23:58.227] [INFO] [PMWU-SO] ============================================================
+[2026-02-28 20:23:58.227] [INFO] [PMWU-SO] PMWU-SO Debug Logger initialized - 2026-02-28 20:23:58.227
+[2026-02-28 20:23:58.227] [INFO] [PMWU-SO] ============================================================
+[2026-02-28 20:23:58.227] [INFO] [PMWU-SO] PMWU Soundings and Outlooks mod constructor complete
+[2026-02-28 20:24:07.392] [INFO] [PMWU-SO] Common setup complete
+[2026-02-28 20:24:15.195] [INFO] [PMWU-SO] [SOUNDING NET] Sounding network packets registered with channel: pmwu_so
+[2026-02-28 20:24:15.196] [INFO] [PMWU-SO] Network payload handlers registered
+[2026-02-28 20:30:26.944] [INFO] [PMWU-SO] [CLIENT SOUNDING] Set sounding: 24.69,-81.44 (TSTM) - 38 levels
+[2026-02-28 20:30:26.945] [DEBUG] [PMWU-SO] [SOUNDING FETCHER] Set sounding: 24.69,-81.44 (TSTM) - 38 levels
+[2026-02-28 20:30:26.945] [DEBUG] [PMWU-SO] [SOUNDING NET] Received sounding from server: 24.69,-81.44 (TSTM) - 38 levels
+[2026-02-28 20:36:50.429] [INFO] [PMWU-SO] [CLIENT SOUNDING] Set sounding: 41.37,-102.00 (TSTM) - 33 levels
+[2026-02-28 20:36:50.429] [INFO] [PMWU-SO] [CLIENT SOUNDING] Station changed: 24.69,-81.44 -> 41.37,-102.00
+[2026-02-28 20:36:50.429] [DEBUG] [PMWU-SO] [SOUNDING FETCHER] Set sounding: 41.37,-102.00 (TSTM) - 33 levels
+[2026-02-28 20:36:50.429] [DEBUG] [PMWU-SO] [SOUNDING NET] Received sounding from server: 41.37,-102.00 (TSTM) - 33 levels

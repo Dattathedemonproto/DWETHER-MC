@@ -1,0 +1,50 @@
+/pmweather clear all
+//set minecraft:bricks
+/pmweather clear all
+//set air
+/pmweather clear all
+//set air
+//undo
+//set air
+//set minecraft:bricks
+//set air
+//set minecraft:grass_block
+//set minecraft:dirt
+//set minecraft:grass_block
+//undo
+//set minecraft:grass_block
+//set minecraft:cobblestone
+/pmweather clear all
+//set minecraft:bricks
+/pmweather clear all
+/butcher
+/pmweather clear all
+/butcher
+//set minecraft:bricks
+/pmweather clear all
+//set minecraft:bricks
+/pmweather clear all
+//set minecraft:bricks
+/openpac-parties create
+/pmweather clear all
+/gamemode creative
+/openpac-claims server-claim-mode
+/pmweather clear all
+/gamemode creative
+/openpac-parties member invite TornadoYoshi1251
+/sounding status
+/pmweather clear all
+/openpac-claims admin-mode
+/gamemode survival
+/gamemode creative
+/pmweather clear all
+/openpac-claims admin-mode
+/pmweather clear all
+/butcher
+/pmweather clear all
+/gamemode creative
+/pmweather clear all
+/time set day
+/pmweather spawn tornado buildto 2 60 400 300
+/pmweather clear all
+/time set day
