@@ -1,0 +1,13 @@
+name = "PMWeatherAPI"
+filename = "pmweatherapi-0.16.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IadrcnTj/versions/Fo0hi2z7/pmweatherapi-0.16.4.1.jar"
+hash-format = "sha512"
+hash = "fe568fa55cdd8b8217a047003d1193498783a93047e906e91173f65d9520c5f49b019203d35cf9940b4eebd7f49a28ecd19362f136e0418011c955d31d201b0d"
+
+[update]
+[update.modrinth]
+mod-id = "IadrcnTj"
+version = "Fo0hi2z7"

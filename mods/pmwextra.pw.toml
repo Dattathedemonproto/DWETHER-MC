@@ -1,0 +1,13 @@
+name = "PMW Extra!"
+filename = "pmwextra-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EkOB83Jm/versions/WcEw5fqk/pmwextra-0.1.3.jar"
+hash-format = "sha512"
+hash = "50c2978e9ed841934f1060610435cd257480f1a267519cd33ed5e40785dd61aadc2c13b9ee76a13e3af1e5d0a532119726276268160e21adc9cc84f62c139836"
+
+[update]
+[update.modrinth]
+mod-id = "EkOB83Jm"
+version = "WcEw5fqk"

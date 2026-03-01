@@ -1,0 +1,13 @@
+name = "Elton's Wind meter for PMW"
+filename = "windmeter-0.0.29.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wgQjOBvx/versions/uAMuao9s/windmeter-0.0.29.jar"
+hash-format = "sha512"
+hash = "729bd901ae36978ea0a10a333eb311d1ab57bf4b8890ad592067197f53be950fef09323f47aa0f108fe423879e76790f032213cba5b3d1bc8a1201c8aef67c2e"
+
+[update]
+[update.modrinth]
+mod-id = "wgQjOBvx"
+version = "uAMuao9s"
