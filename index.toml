@@ -1349,11 +1349,11 @@ hash = "79dfc26698cd16e717061c2ff3b81f7c12f40469385606e97a45619f396d8fa4"
 
 [[files]]
 file = "servers.dat"
-hash = "324ebde891eb3d87f65e8b9f7c0c99da01c36bc596fad3aa4635d4c933f549ff"
+hash = "5f2041f496854c18be877011d5161cfe4a45f9ca8835cee6a840d5fad717a3b1"
 
 [[files]]
 file = "servers.dat_old"
-hash = "324ebde891eb3d87f65e8b9f7c0c99da01c36bc596fad3aa4635d4c933f549ff"
+hash = "8be6f096170d892987e7490edd20b3e9bab50c574e9d6b5a505eb5ff45c67a79"
 
 [[files]]
 file = "usercache.json"
